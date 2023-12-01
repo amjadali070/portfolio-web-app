@@ -60,7 +60,7 @@ export const projects = [
         color: "indigo-800",
       },
     ],
-    img: require("E:/Portfolio/amjad-ali-web/src/assets/images/EaseWeb.png"),
+    img: require("E:/Portfolio/amjad-ali-web/src/assets/images/easeWeb.png"),
     link: "https://github.com/amjadali070/site-builder-easeweb",
     code: "https://github.com/amjadali070/site-builder-easeweb",
   },
