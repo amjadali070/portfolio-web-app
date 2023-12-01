@@ -26,7 +26,7 @@ export default function Projects() {
               <Work
                 title={project.title}
                 desc={project.desc}
-                img={project.img}
+                //img={project.img}
                 link={project.link}
                 code={project.code}
                 tags={project.tags}
